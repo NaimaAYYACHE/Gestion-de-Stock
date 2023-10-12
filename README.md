@@ -1,5 +1,3 @@
-# skydash
-
 # Gestion de Stock
 
 Une application de gestion de stock qui permet aux utilisateurs de suivre les stocks de produits.
