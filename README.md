@@ -74,42 +74,42 @@ en stock. Elle affiche la liste des articles avec la possibilité d'imprimer un 
 entre deux dates, d'ajouter un nouvel article, de le modifier, ou de le supprimer.<br><br>
 <b>Fonctionnalités :</b> Consultation, Ajout, modification, suppression d'articles, 
 impression de rapports.<br><br>
-• Liste des articles<br>
+• Liste des articles<br><br>
 ![screenshot20230914023622](https://github.com/NaimaAYYACHE/skydash/assets/105889744/ac972a60-0d88-44a1-8a6e-8f8f408eeb41)<br>
-• Ajouter un article<br>
+• Ajouter un article<br><br>
 ![screenshot20230914023742](https://github.com/NaimaAYYACHE/skydash/assets/105889744/2be3dcbc-9bb9-4f46-81e5-3be6b47284ba)<br>
-• Modifier un article<br>
-![screenshot20230914023832](https://github.com/NaimaAYYACHE/skydash/assets/105889744/1ae89edb-cbfe-46a6-9c40-8bbc7cf2ecf2)<br>
+• Modifier un article<br><br>
+![screenshot20230914023832](https://github.com/NaimaAYYACHE/skydash/assets/105889744/1ae89edb-cbfe-46a6-9c40-8bbc7cf2ecf2)<br><br>
 ### Gestion des Catégories :
 L'interface de gestion des catégories permet au responsable du stock de gérer les 
 catégories auxquelles appartiennent les articles. Elle affiche la liste des catégories 
 avec la possibilité d'imprimer la liste, d'ajouter une nouvelle catégorie, de la modifier, 
 ou de la supprimer.<br><br>
 <b>Fonctionnalités :</b> Consultation, Ajout, modification, suppression de catégories, 
-impression de la liste des catégories.<br>
-• Liste des catégories<br>
-![screenshot20230914023354](https://github.com/NaimaAYYACHE/skydash/assets/105889744/02da23a1-ec56-4087-a3a3-e78f61c826f8)<br>
-• Ajouter une catégorie<br>
-![screenshot20230914023502](https://github.com/NaimaAYYACHE/skydash/assets/105889744/5a7f22d8-2b6c-4ed8-b5ca-a634200ce13d)<br>
-• Message de confirmation d'ajout<br>
-![screenshot20230914024656](https://github.com/NaimaAYYACHE/skydash/assets/105889744/72d21c65-c644-4f87-8016-61b8d261f0d2)<br>
-• Modifier une catégorie<br>
-![screenshot20230914023529](https://github.com/NaimaAYYACHE/skydash/assets/105889744/eafe37a4-95d3-4716-ba63-5f422da6a23b)<br>
-• Message de confirmation de modification<br>
-![screenshot20230914024833](https://github.com/NaimaAYYACHE/skydash/assets/105889744/353272e7-5399-4b54-98e9-7d11bea89900)<br>
-• Message de confirmation de suppression<br>
-![screenshot20230914025136](https://github.com/NaimaAYYACHE/skydash/assets/105889744/3085e3ec-b619-4271-a846-63857507a8b6)<br>
+impression de la liste des catégories.<br><br>
+• Liste des catégories<br><br>
+![screenshot20230914023354](https://github.com/NaimaAYYACHE/skydash/assets/105889744/02da23a1-ec56-4087-a3a3-e78f61c826f8)<br><br>
+• Ajouter une catégorie<br><br>
+![screenshot20230914023502](https://github.com/NaimaAYYACHE/skydash/assets/105889744/5a7f22d8-2b6c-4ed8-b5ca-a634200ce13d)<br><br>
+• Message de confirmation d'ajout<br><br>
+![screenshot20230914024656](https://github.com/NaimaAYYACHE/skydash/assets/105889744/72d21c65-c644-4f87-8016-61b8d261f0d2)<br><br>
+• Modifier une catégorie<br><br>
+![screenshot20230914023529](https://github.com/NaimaAYYACHE/skydash/assets/105889744/eafe37a4-95d3-4716-ba63-5f422da6a23b)<br><br>
+• Message de confirmation de modification<br><br>
+![screenshot20230914024833](https://github.com/NaimaAYYACHE/skydash/assets/105889744/353272e7-5399-4b54-98e9-7d11bea89900)<br><br>
+• Message de confirmation de suppression<br><br>
+![screenshot20230914025136](https://github.com/NaimaAYYACHE/skydash/assets/105889744/3085e3ec-b619-4271-a846-63857507a8b6)<br><br>
 ### Gestion des Départements :
 L'interface de gestion des départements permet au responsable du stock de gérer les 
 départements de l'organisation. Elle affiche la liste des départements avec la 
 possibilité d'ajouter un nouveau département, de le modifier, ou de le supprimer.<br> <br>
-<b>Fonctionnalités : </b>Consultation, Ajout, modification, suppression de départements.<br>
-• Liste des Départements<br>
-![screenshot20230914131209](https://github.com/NaimaAYYACHE/skydash/assets/105889744/99c832e6-fa33-4b35-ba41-a2e52b4a7f56)<br>
-• Ajouter un Département<br>
-![screenshot20230914131232](https://github.com/NaimaAYYACHE/skydash/assets/105889744/f2a0d316-93e8-4cae-84ee-f54b093ed857)<br>
-• Modifier un Département<br>
-![screenshot20230914131308](https://github.com/NaimaAYYACHE/skydash/assets/105889744/2e3ac3b0-2df1-427f-a9bd-cd3f4c28f464)<br>
+<b>Fonctionnalités : </b>Consultation, Ajout, modification, suppression de départements.<br><br>
+• Liste des Départements<br><br>
+![screenshot20230914131209](https://github.com/NaimaAYYACHE/skydash/assets/105889744/99c832e6-fa33-4b35-ba41-a2e52b4a7f56)<br><br>
+• Ajouter un Département<br><br>
+![screenshot20230914131232](https://github.com/NaimaAYYACHE/skydash/assets/105889744/f2a0d316-93e8-4cae-84ee-f54b093ed857)<br><br>
+• Modifier un Département<br><br>
+![screenshot20230914131308](https://github.com/NaimaAYYACHE/skydash/assets/105889744/2e3ac3b0-2df1-427f-a9bd-cd3f4c28f464)<br><br>
 
 ### Gestion des Utilisateurs :
 L'interface de gestion des utilisateurs permet au responsable du stock de gérer les 
@@ -117,26 +117,26 @@ utilisateurs de l'application. Elle affiche la liste des utilisateurs avec la po
 d'ajouter un nouvel utilisateur en spécifiant le département et le rôle, de le modifier, 
 ou de le supprimer.<br><br>
 <b>Fonctionnalités :</b> Consultation, Ajout, modification, suppression d'utilisateurs, 
-attribution de département et de rôle.<br>
-• Liste des Utilisateurs<br>
-![screenshot20230914023912](https://github.com/NaimaAYYACHE/skydash/assets/105889744/ff7faa9f-5f16-4fca-b637-bdf15c37bc74)<br>
-• Ajouter un Utilisateur<br>
-![screenshot20230914024055](https://github.com/NaimaAYYACHE/skydash/assets/105889744/7224cacb-52d0-4899-b9a1-788f5cd0a9e2)<br>
-• Modifier un Utilisateur<br>
-![screenshot20230914131344](https://github.com/NaimaAYYACHE/skydash/assets/105889744/6548f266-5724-4253-91de-a43a498c5ea7)<br>
+attribution de département et de rôle.<br><br>
+• Liste des Utilisateurs<br><br>
+![screenshot20230914023912](https://github.com/NaimaAYYACHE/skydash/assets/105889744/ff7faa9f-5f16-4fca-b637-bdf15c37bc74)<br><br>
+• Ajouter un Utilisateur<br><br>
+![screenshot20230914024055](https://github.com/NaimaAYYACHE/skydash/assets/105889744/7224cacb-52d0-4899-b9a1-788f5cd0a9e2)<br><br>
+• Modifier un Utilisateur<br><br>
+![screenshot20230914131344](https://github.com/NaimaAYYACHE/skydash/assets/105889744/6548f266-5724-4253-91de-a43a498c5ea7)<br><br>
 ### Gestion des Demandes :
 L'interface de gestion des demandes permet au responsable du stock de consulter la 
 liste des demandes, de vérifier les demandes en attente, de voir les détails des 
 demandes, ou de supprimer une demande.<br><br>
-<b>Fonctionnalités :</b> Consultation, vérification, détails et suppression de demandes.<br>
+<b>Fonctionnalités :</b> Consultation, vérification, détails et suppression de demandes.<br><br>
 
-![screenshot20230914024151](https://github.com/NaimaAYYACHE/skydash/assets/105889744/07cdda38-79a1-407d-84e9-b52cbbb3abfb)<br>
+![screenshot20230914024151](https://github.com/NaimaAYYACHE/skydash/assets/105889744/07cdda38-79a1-407d-84e9-b52cbbb3abfb)<br><br>
 ### Gestion des Réclamations :
 L'interface de gestion des réclamations permet au responsable du stock de consulter 
 la liste des réclamations en cours, de voir les réclamations acceptées ou refusées, de 
 voir les détails des réclamations, ou de supprimer une réclamation.<br><br>
 <b>Fonctionnalités :</b> Consultation, acceptation/refus, détails et suppression de 
-réclamations.<br>
-![screenshot20230914024214](https://github.com/NaimaAYYACHE/skydash/assets/105889744/9e64cb9f-ed6d-4160-82e6-22fabcb480c0)<br>
+réclamations.<br><br>
+![screenshot20230914024214](https://github.com/NaimaAYYACHE/skydash/assets/105889744/9e64cb9f-ed6d-4160-82e6-22fabcb480c0)<br><br>
 
 
